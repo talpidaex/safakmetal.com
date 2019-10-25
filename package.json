@@ -1,0 +1,15 @@
+{
+  "name": "safakmetal",
+  "version": "1.0.0",
+  "description": "oguzhan Bayrak - keystoneJS kullanılarak oluşturulan website",
+  "main": "keystone.js",
+  "dependencies": {
+    "ejs": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oguzhan BAYRAK",
+  "license": "ISC"
+}
