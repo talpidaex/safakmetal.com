@@ -52,7 +52,7 @@
 }
 @media (max-width : 750px) {
     #logo_navbar{
-      width: 75%;
+      width: 100%;
     }
     .navbar-brand {
       width: 160px;
